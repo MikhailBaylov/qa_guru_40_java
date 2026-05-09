@@ -1,6 +1,7 @@
 plugins {
     id 'java-library'
 }
+group = 'ru.aniklab'
 
 repositories {
     mavenCentral()
